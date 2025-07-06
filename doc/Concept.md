@@ -33,3 +33,6 @@ My recomendation is to use **K3d** as fastest, less resorce hungry option. It su
 **Note:** K3d does not support external IP for Load Balancers out of the box but service still can be accessed via kubernetes endpoint IP and node port on Load Balancer Service.
 ![Demo](demo.gif)
 [Asciinema link](https://asciinema.org/a/rrdfPVZLN1JA14VjJ9JPVdDW7)
+
+Argo CD official Demo
+![Official Demo](https://argo-cd.readthedocs.io/en/stable/assets/argocd-ui.gif)
